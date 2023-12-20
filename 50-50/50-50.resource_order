@@ -19,6 +19,7 @@
     {"name":"Level_3","order":2,"path":"rooms/Level_3/Level_3.yy",},
     {"name":"Button_Quit","order":7,"path":"objects/Button_Quit/Button_Quit.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"Background2","order":5,"path":"sprites/Background2/Background2.yy",},
     {"name":"Level_2","order":1,"path":"rooms/Level_2/Level_2.yy",},
     {"name":"sWall","order":3,"path":"sprites/sWall/sWall.yy",},
     {"name":"Button_Settings","order":6,"path":"objects/Button_Settings/Button_Settings.yy",},

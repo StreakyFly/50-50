@@ -39,6 +39,7 @@
     {"id":{"name":"Level_3","path":"rooms/Level_3/Level_3.yy",},},
     {"id":{"name":"Button_Quit","path":"objects/Button_Quit/Button_Quit.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"Background2","path":"sprites/Background2/Background2.yy",},},
     {"id":{"name":"Level_2","path":"rooms/Level_2/Level_2.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
     {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
